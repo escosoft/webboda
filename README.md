@@ -1,34 +1,36 @@
-Magister - single-page Bootstrap template
-=============
+responsive-wedding
+------------------
 
-Magister is a free responsive, single-page HTML5 template base on Twitter Bootstrap framework. 
+An HTML5 responsive design using jquery waypoints & scroll-to for a pleasant single-page navigation. This template makes use of media queries and scales well for all mobile form-factors.
 
+A live demo can be viewed at:
 
-License
--------
-**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
+   http://sarahlovesbradley.com
 
+========
 
-Features
------------
+![Preview](https://github.com/bmgdev/responsive-wedding/blob/master/preview.png?raw=true)
 
-A few features that make this template unique
+## LICENSE
 
-* HTML is clean and fat-free, you will not find any useless code inside this template.
-* Responsive design
-* Overral quality, worth to be premium template.
+(The MIT License)
 
+Copyright © Scal.io, LLC [Bradley Greenwood](http://github.com/bmgdev/)
 
-Bug tracker
------------
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files (the "Software"),
+to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell copies of the Software, and to permit persons
+to whom the Software is furnished to do so, subject to the following conditions:
 
-Found a bug? Please create an issue here on GitHub! 
-https://github.com/pozh/Magister/issues
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Software.
 
-
-
-Credits
--------
-* Design and development: **Sergey Pozhilov** - http://pozhilov.com
-* Photos used in template: **Unsplash** - http://unsplash.com
-* More free templates by Sergey: http://gettemplate.com
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
